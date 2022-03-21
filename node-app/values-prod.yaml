@@ -4,7 +4,7 @@
 
 replicaCount: 2
 
-image:
+image: 883195043912.dkr.ecr.us-west-2.amazonaws.com/nodejs-repository:node-app
   repository: 
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
