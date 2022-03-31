@@ -14,5 +14,9 @@ EXPOSE 3000
 ENTRYPOINT ["npm", "start"]
 =======
 EXPOSE 80
+<<<<<<< HEAD
 ENTRYPOINT ["npm", "starts"]
 >>>>>>> 48cce6e1b27b007a2ed10c8435a5c3ffd66fa616
+=======
+ENTRYPOINT ["npm", "start"]
+>>>>>>> 00ed6ea443575867dfb46cd0ffe1d7cb030f287e
