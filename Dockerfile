@@ -11,4 +11,4 @@ RUN npm install
 RUN npm install --save nodemailer
 EXPOSE 3000
 EXPOSE 80
-ENTRYPOINT ["npm", "start"]
+ENTRYPOINT ["npm", "starts"]
