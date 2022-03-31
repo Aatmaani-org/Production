@@ -10,4 +10,4 @@ WORKDIR express-website/
 RUN npm install
 RUN npm install --save nodemailer
 EXPOSE 3000
-ENTRYPOINT ["npm", "starts"]
+ENTRYPOINT ["npm", "start"]
